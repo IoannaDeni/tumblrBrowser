@@ -1,0 +1,6 @@
+framework module Pods_tumblrBrowserTests {
+  umbrella header "Pods-tumblrBrowserTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
